@@ -55,6 +55,9 @@ analysing a whole peptide.
 - `tabulate` library
 - `pyfiglet` library
 
+## Usage
+Run the program from the terminal:
+
 ## Purpose
 Peptide Analyser shows how Python can be used in biochemistry. It’s both practical and
 educational, helping you calculate important peptide properties quickly and easily.
@@ -62,3 +65,4 @@ educational, helping you calculate important peptide properties quickly and easi
 It’s perfect for students, teachers, and researchers. By exploring peptides and amino acids,
 you’ll get a better understanding of biochemistry, and see how programming can make science
 more approachable.
+
