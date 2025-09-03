@@ -8,7 +8,7 @@ this tool helps you understand peptide properties without any hassle.
 
 You can choose between two main modes: analysing a full peptide chain or looking at a single
 amino acid. The program guides you with a simple menu and clear instructions at every step.
-If you enter something wrong, it’ll gently prompt you to try again—no crashes, no stress.
+If you enter something wrong, it’ll gently prompt you to try again.
 
 To make things a bit more fun, it shows ASCII art titles using `pyfiglet` and displays all
 results in neat tables with `tabulate`. It’s simple, clear, and even a little visually
