@@ -15,7 +15,7 @@ results in neat tables with `tabulate`. It’s simple, clear, and even a little 
 pleasing.
 
 ## Peptide Chain Analysis
-In peptide mode, you enter a sequence of amino acids—from just one residue up to 1000.
+In peptide mode, you enter a sequence of amino acids, from just one residue up to 1000.
 The program checks your input and only accepts standard amino acids, letting you correct
 any mistakes.
 
