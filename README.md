@@ -1,5 +1,5 @@
 ## Peptide Analyser
-#### Video Demo: https://youtu.be/dNPWmFx69lU?si=9fpWfir0Nrt_R7Bj
+#### Video Demo: https://youtu.be/TtGH-tuOtUY?si=zws6K7uqbuY78r3b
 
 ## Overview
 Peptide Analyser is a Python program that makes exploring peptides and amino acids easy
@@ -65,4 +65,5 @@ educational, helping you calculate important peptide properties quickly and easi
 It’s perfect for students, teachers, and researchers. By exploring peptides and amino acids,
 you’ll get a better understanding of biochemistry, and see how programming can make science
 more approachable.
+
 
