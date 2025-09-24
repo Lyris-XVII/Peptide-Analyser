@@ -51,6 +51,8 @@ def main() -> None:
                 f"{tabulate(table, tablefmt='double_grid')}\n\n"
                 f"Average Percentage Composition:\n\n{percentage_composition}"
             )  # Displays table.
+            input("\nClick Enter To Continue: ") # To continue.
+            main()
         elif user_choice == "2":  # Residue analyser route.
             raw_residue: str = str(
                 input("\nResidue (For Example, Alanine): ").strip().capitalize()
@@ -61,6 +63,8 @@ def main() -> None:
             )  # Retrieves residue data.
             print(figlet.renderText("Results"))  # Displays result title.
             print(f"{tabulate(table, tablefmt='double_grid')}")  # Display table.
+            input("\nClick Enter To Continue: ") # To continue.
+            main()
         else:
             raise ValueError
     except (ValueError, EOFError):
@@ -143,3 +147,4 @@ def residue_table(residue: str) -> list[tuple[str, str | float]]:
 
 if __name__ == "__main__":
     main()  # Run main().
+
