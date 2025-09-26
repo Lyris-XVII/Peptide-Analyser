@@ -1,6 +1,11 @@
 ## Peptide Analyser
 #### Video Demo: https://youtu.be/TtGH-tuOtUY?si=zws6K7uqbuY78r3b
 
+## Requirements
+- Python 3
+- `tabulate` library
+- `pyfiglet` library
+  
 ## Overview
 Peptide Analyser is a Python program that makes exploring peptides and amino acids easy
 and interactive. Whether you're a student, researcher, or just curious about biochemistry,
@@ -50,11 +55,6 @@ analysing a whole peptide.
 - Works with chains up to 1000 residues
 - Friendly error handling to keep things smooth
 
-## Requirements
-- Python 3
-- `tabulate` library
-- `pyfiglet` library
-
 ## Usage
 Run the program from the terminal:
 
@@ -65,5 +65,6 @@ educational, helping you calculate important peptide properties quickly and easi
 It’s perfect for students, teachers, and researchers. By exploring peptides and amino acids,
 you’ll get a better understanding of biochemistry, and see how programming can make science
 more approachable.
+
 
 
